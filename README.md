@@ -60,3 +60,5 @@ def executive(event):
 
 fig.canvas.mpl_connect('button_press_event', on_click)
 plt.show()
+
+Late easy personal.
