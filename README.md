@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 
 
 Religious image what partner.
+.DS_Store
+docs/_build/html
+docs/_build/jupyter_execute
